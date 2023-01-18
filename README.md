@@ -5,7 +5,8 @@
 
 
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ze-fernando&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&layout=compact&theme=dark)](https://github.com/ze-fernando)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ze-fernando&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&layout=compact&theme=dark)](https://github.com/ze-fernando)
 
 ### Tecnologias que utilizo atualmente
 
