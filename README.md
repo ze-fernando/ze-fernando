@@ -27,15 +27,11 @@
     <img align='center' alt='MySQL' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div>
 
-### Terminal
-<div style='display: inline-block'>
-    <img align='center' alt='GIT' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> 
-    <img align='center' alt='Poweshell' src='https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white'/>
-    <img align='center' alt='Bash' src='https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white'/>
-</div>
-
-<br>
-<br>
+### Contact
+<a href="https://www.linkedin.com/in/jf-libarino/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ze-fernando?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zec_libarino/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLwRJSjgnrngBfmGtxGQqMFZgbWzkRKDfjJDnfBfWdjvFPKxzRNXLWZCPvBvhxRfXSLV)
+
