@@ -29,9 +29,10 @@
 
 ### Contact
 <a href="https://www.linkedin.com/in/jf-libarino/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ze-fernando?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-JoseFernando-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zec_libarino/)
+<br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLwRJSjgnrngBfmGtxGQqMFZgbWzkRKDfjJDnfBfWdjvFPKxzRNXLWZCPvBvhxRfXSLV)
 
