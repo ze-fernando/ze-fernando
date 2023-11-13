@@ -1,10 +1,7 @@
 # Hi i'm José Fernando! 👋
 ### Back-end developer <br><br> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ze-fernando
-/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&langs_count=8&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&langs_count=8&layout=compact&theme=dark)
 ## Skills ⚡
 
 ### Languages
