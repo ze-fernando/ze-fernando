@@ -1,5 +1,5 @@
 # Hi i'm José Fernando! 👋
-### Back-end developer <br><br> 
+### Back-end developer
 
 ## Skills ⚡
 
