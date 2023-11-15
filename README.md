@@ -1,6 +1,6 @@
 # Hi i'm José Fernando! 👋
 ### Back-end developer
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&langs_count=8&layout=compact&theme=dark)
 ## Skills ⚡
 
 ### Languages
