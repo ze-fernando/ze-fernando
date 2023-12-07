@@ -1,6 +1,8 @@
 # Hi i'm José Fernando! 👋
 ### Back-end developer
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css)
+
 ## Skills ⚡
 
 ### Languages
