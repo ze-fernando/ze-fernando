@@ -1,5 +1,4 @@
-# Hi i'm José Fernando! 👋 
-- Back-end developer
+# Hi i'm José Fernando 
 
 ## Skills ⚡
 
