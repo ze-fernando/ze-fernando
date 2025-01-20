@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1838F7&multiline=true&width=435&lines=+Hello+fellas%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## I'm Fernando and i work with
+### I'm Fernando and i work with
 
 ### Back-end
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
