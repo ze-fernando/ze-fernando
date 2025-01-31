@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1838F7&multiline=true&width=435&lines=+Hello+fellas%F0%9F%91%8B+%20+I'm+%20+Fernando)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ze-fernando&repo=github-readme-stats)](https://github.com/ze-fernando/ze-fernando)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ze-fernando&repo=ze-fernando/ze-fernando)](https://github.com/ze-fernando/ze-fernando)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&layout=compact)
 ### Back-end
