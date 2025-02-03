@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1838F7&multiline=true&width=435&lines=+Hello+fellas%F0%9F%91%8B+%20+I'm+%20+Fernando)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze-fernando&layout=compact&color=dark)
 
 ### Back-end
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
