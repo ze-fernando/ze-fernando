@@ -5,8 +5,6 @@
 
 <!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=ze-fernando&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ze-fernando?label=Followers&style=for-the-badge&color=2563EB&labelColor=0D1117"/>
 
 <br/><br/>
 
