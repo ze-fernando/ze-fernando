@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=240§ion=header&text=Jos%C3%A9%20Fernando&fontSize=68&fontColor=ffffff&fontAlignY=38&fo ntStyle=bold&desc=Desenvolvedor%20Back-end%20(Conhecimento%20Full%20Stack)&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" largura="100%"/>
-</div>
+## Fullstack developer
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ze-fernando) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zefernando.dev@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://ze-fernando.netlify.app)
 
 ![Disponível para trabalho](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-3b82f6?style=flat-square)
